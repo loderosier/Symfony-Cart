@@ -2,7 +2,7 @@ Installation:
 
 Webserver->
 
-run git clone https://github.com/loderosier/SymfonyProject.git command
+run git clone https://github.com/loderosier/Symfony-Cart.git command
 
 run composer install command
 
